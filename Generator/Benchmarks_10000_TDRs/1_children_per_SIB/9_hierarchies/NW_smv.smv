@@ -1,0 +1,25 @@
+MODULE main
+VAR
+SG : SigGen()
+
+TDO : SIGNAL (SR-M1_1/4.SDO);
+
+SR-M1_1/4: SUC(m-M1_1/4.o, SG.SCK, TRUE, SG.ShiftEn, SG.UpdateEn);
+m-M1_1/4: MUX2(SG.TDI, SR-M1_2/8.SDO, .ToSel);
+SR-M1_2/8: SUC(m-M1_2/8.o, SG.SCK, sel_SR-M1_2/8.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_2/8: MUX2(SG.TDI, SR-M1_3/12.SDO, SR-M1_1/4.ToSel);
+SR-M1_3/12: SUC(m-M1_3/12.o, SG.SCK, sel_SR-M1_3/12.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_3/12: MUX2(SG.TDI, SR-M1_4/16.SDO, SR-M1_2/8.ToSel);
+SR-M1_4/16: SUC(m-M1_4/16.o, SG.SCK, sel_SR-M1_4/16.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_4/16: MUX2(SG.TDI, SR-M1_5/20.SDO, SR-M1_3/12.ToSel);
+SR-M1_5/20: SUC(m-M1_5/20.o, SG.SCK, sel_SR-M1_5/20.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_5/20: MUX2(SG.TDI, SR-M1_6/24.SDO, SR-M1_4/16.ToSel);
+SR-M1_6/24: SUC(m-M1_6/24.o, SG.SCK, sel_SR-M1_6/24.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_6/24: MUX2(SG.TDI, SR-M1_7/28.SDO, SR-M1_5/20.ToSel);
+SR-M1_7/28: SUC(m-M1_7/28.o, SG.SCK, sel_SR-M1_7/28.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_7/28: MUX2(SG.TDI, SR-M1_8/32.SDO, SR-M1_6/24.ToSel);
+SR-M1_8/32: SUC(m-M1_8/32.o, SG.SCK, sel_SR-M1_8/32.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_8/32: MUX2(SG.TDI, SR-M1_9/36.SDO, SR-M1_7/28.ToSel);
+SR-M1_9/36: SUC(m-M1_9/36.o, SG.SCK, sel_SR-M1_9/36.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_9/36: MUX2(SG.TDI, In-M1_9/37.SDO, SR-M1_8/32.ToSel);
+In-M1_9/37: ShiftRegister_20(SG.TDI, SG.SCK, sel_In-M1_9/37.o, SG.ShiftEn, SG.UpdateEn);

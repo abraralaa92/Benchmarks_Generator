@@ -1,0 +1,22 @@
+MODULE main
+VAR
+SG : SigGen()
+
+TDO : SIGNAL (SR-M2_1/21.SDO);
+
+SR-M1_1/4: SUC(m-M1_1/4.o, SG.SCK, TRUE, SG.ShiftEn, SG.UpdateEn);
+m-M1_1/4: MUX2(SG.TDI, SR-M1_2/14.SDO, .ToSel);
+SR-M1_2/8: SUC(m-M1_2/8.o, SG.SCK, sel_SR-M1_2/8.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_2/8: MUX2(SG.TDI, In-M1_2/9.SDO, SR-M1_1/4.ToSel);
+In-M1_2/9: ShiftRegister_20(SG.TDI, SG.SCK, sel_In-M1_2/9.o, SG.ShiftEn, SG.UpdateEn);
+SR-M1_2/14: SUC(m-M1_2/14.o, SG.SCK, sel_SR-M1_2/14.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_2/14: MUX2(SR-M1_2/8.SDO, Out-M1_2/15.SDO, SR-M1_1/4.ToSel);
+Out-M1_2/15: ShiftRegister_20(SR-M1_2/8.SDO, SG.SCK, sel_Out-M1_2/15.o, SG.ShiftEn, SG.UpdateEn);
+SR-M2_1/21: SUC(m-M2_1/21.o, SG.SCK, TRUE, SG.ShiftEn, SG.UpdateEn);
+m-M2_1/21: MUX2(SR-M1_1/4.SDO, SR-M2_2/31.SDO, .ToSel);
+SR-M2_2/25: SUC(m-M2_2/25.o, SG.SCK, sel_SR-M2_2/25.o, SG.ShiftEn, SG.UpdateEn);
+m-M2_2/25: MUX2(SR-M1_1/4.SDO, In-M2_2/26.SDO, SR-M2_1/21.ToSel);
+In-M2_2/26: ShiftRegister_20(SR-M1_1/4.SDO, SG.SCK, sel_In-M2_2/26.o, SG.ShiftEn, SG.UpdateEn);
+SR-M2_2/31: SUC(m-M2_2/31.o, SG.SCK, sel_SR-M2_2/31.o, SG.ShiftEn, SG.UpdateEn);
+m-M2_2/31: MUX2(SR-M2_2/25.SDO, Out-M2_2/32.SDO, SR-M2_1/21.ToSel);
+Out-M2_2/32: ShiftRegister_20(SR-M2_2/25.SDO, SG.SCK, sel_Out-M2_2/32.o, SG.ShiftEn, SG.UpdateEn);

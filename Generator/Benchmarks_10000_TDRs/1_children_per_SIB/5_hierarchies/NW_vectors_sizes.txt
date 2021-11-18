@@ -1,0 +1,10 @@
+NO of Children per SIB = 1
+Hierarchy = 5
+NO of TDRs = 1
+For NW_vertices: Size= 28,	 Capacity= 28
+For NW_graph: Size= 13,	 Capacity= 18
+For NW_clauses: Size= 6,	 Capacity= 9
+For NW_SDG: Size= 23,	 Capacity= 28
+For NW_smv: Size= 11, 	 Capacity= 14
+For NW_TDRs: Size= 1, 	 Capacity= 1
+////////////////////////////////////////////////////////////////////////////////////

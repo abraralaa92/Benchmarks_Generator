@@ -1,0 +1,170 @@
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18-1 2 3 4 -5 6 7 8 -9 10 11 12 -13 14 15 16 -17 18
+ASP for TF(0) is: TDI = X, AUX-M1_1/2 = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+ASP for TF(0) is: TDI = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+ASP for TF(0) is: TDI = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+ASP for TF(0) is: TDI = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+ASP for TF(0) is: TDI = X, SR-M1_1/4 = 1, TDO = X, 
+ASP for TF(1) is: TDI = X, SR-M1_1/4 = 0, In-M1_1/5 = X, TDO = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////

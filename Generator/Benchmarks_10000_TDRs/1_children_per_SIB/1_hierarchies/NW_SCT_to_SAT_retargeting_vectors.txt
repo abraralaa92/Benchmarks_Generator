@@ -1,0 +1,335 @@
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+-1 2 -3-1 2 -3-1 2 -3-1 2 -3-1 2 -3
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////
+The Retaregeting output vectors for (In-M1_1/5) is: 
+ASP for TF(0) is: SR-M1_1/4 = 1, 
+ASP for TF(1) is: SR-M1_1/4 = 0, In-M1_1/5 = X, 
+Number of Clock Cycles = 79
+/////////////////////////////////////////////////////////////////////////////

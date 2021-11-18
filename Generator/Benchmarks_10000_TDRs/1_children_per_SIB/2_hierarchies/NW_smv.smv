@@ -1,0 +1,11 @@
+MODULE main
+VAR
+SG : SigGen()
+
+TDO : SIGNAL (SR-M1_1/4.SDO);
+
+SR-M1_1/4: SUC(m-M1_1/4.o, SG.SCK, TRUE, SG.ShiftEn, SG.UpdateEn);
+m-M1_1/4: MUX2(SG.TDI, SR-M1_2/8.SDO, .ToSel);
+SR-M1_2/8: SUC(m-M1_2/8.o, SG.SCK, sel_SR-M1_2/8.o, SG.ShiftEn, SG.UpdateEn);
+m-M1_2/8: MUX2(SG.TDI, In-M1_2/9.SDO, SR-M1_1/4.ToSel);
+In-M1_2/9: ShiftRegister_20(SG.TDI, SG.SCK, sel_In-M1_2/9.o, SG.ShiftEn, SG.UpdateEn);
